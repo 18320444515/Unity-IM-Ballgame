@@ -43,6 +43,9 @@ _（完工）_
 * 最终在16:00的时候正式宣告停工，自我评价 50分 | 较清晰地意识到我或许原来只是个平庸的中才？需要多加努力做事情
 * 学习像 Roll-a-ball 老师那样写代码注解 | 顺便写写项目总结，第一次培养习惯
  
+ 
+ ___
+ 
 # Link
 
 [here is the back font of this project on Github](https://github.com/18320444515/ballgame)
