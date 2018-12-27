@@ -1,6 +1,6 @@
 # About This Project
 
-#### _It's my first time to develop a Unity 3D IM game. I am a fresh man in game-developing with Unity engine and I was learning while developing. It cost me 6 day to finish all of the 1.3 Version.     ——2018.12.28 2:50 a.m._
+___It's my first time to develop a Unity 3D IM game. I am a fresh man in game-developing with Unity engine and I was learning while developing. It cost me 6 day to finish all of the 1.3 Version.     ——2018.12.28 2:50 a.m.___
 ___
 
 # My Harvest
